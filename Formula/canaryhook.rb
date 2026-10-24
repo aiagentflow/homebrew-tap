@@ -1,8 +1,8 @@
 class Canaryhook < Formula
   desc "Honeyfiles and canary tokens for AI coding agents"
   homepage "https://aiagentflow.dev/canaryhook"
-  url "https://registry.npmjs.org/canaryhook/-/canaryhook-0.3.0.tgz"
-  sha256 "5e003d34015746fb7b8670e3de56cd7c23be2b614bce5ca51295a1abd425a02f"
+  url "https://registry.npmjs.org/canaryhook/-/canaryhook-0.4.0.tgz"
+  sha256 "bbb9a5f0a849789c09c4fa614fab6401445423b62a0ce22f32f86fc8f74cbd7b"
   license "MIT"
 
   depends_on "node"
