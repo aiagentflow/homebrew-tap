@@ -1,8 +1,8 @@
 class Llmmemory < Formula
   desc "Long-term memory for AI coding agents"
   homepage "https://aiagentflow.dev/llmmemory"
-  url "https://registry.npmjs.org/llmmemory/-/llmmemory-0.3.0.tgz"
-  sha256 "b1556654b69a81c3152cd9c6528184a579e2901dcab3149c49835ebc618c545c"
+  url "https://registry.npmjs.org/llmmemory/-/llmmemory-0.4.0.tgz"
+  sha256 "1c4760415ad179a1f9e9ad694370b0b2e15dfc484bda6b337bc3d261471c5fba"
   license "MIT"
 
   depends_on "node"
